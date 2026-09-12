@@ -146,6 +146,7 @@ export function registerRdsIpcHandlers(): void {
         resourceArn: string;
         secretArn: string;
         database: string;
+        engine?: "postgresql" | "mysql";
       }
     ) => {
       try {

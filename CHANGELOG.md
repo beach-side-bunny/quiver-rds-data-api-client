@@ -2,6 +2,18 @@
 
 All notable changes to Quiver are documented in this file.
 
+## [0.3.1] - 2026-09-12
+
+### Changed
+
+- Bumped the application version to prepare the current main branch contents for the 0.3.1 release
+- Kept the published release metadata aligned with the latest main-branch state
+
+### Notes
+
+- This release does not introduce additional feature work beyond the current main branch contents
+- Installers remain unsigned and automatic updates are still unavailable
+
 ## [0.3.0] - 2026-08-30
 
 ### Added
